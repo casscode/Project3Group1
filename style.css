@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+div {
+    margin: 20px;
+}
+
+#scatter, #pie, #map {
+    border: 1px solid #ccc;
+}
