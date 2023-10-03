@@ -1,0 +1,442 @@
+date_,time_,location_,operator_,aboard,fatalities
+"September 17, 1908",1718,"Fort Myer, Virginia",Military - U.S. Army,2,1
+"September 07, 1909",?,"Juvisy-sur-Orge, France",?,1,1
+"July 12, 1912",0630,"Atlantic City, New Jersey",Military - U.S. Navy,5,5
+"August 06, 1913",?,"Victoria, British Columbia, Canada",Private,1,1
+"September 09, 1913", 1830,Over the North Sea,Military - German Navy,20,14
+"October 17, 1913",1030,"Near Johannisthal, Germany",Military - German Navy,28,28
+"March 05, 1915",0100,"Tienen, Belgium",Military - German Navy,41,17
+"September 03, 1915",1520,"Off Cuxhaven, Germany",Military - German Navy,19,19
+"July 28, 1916",?,"Near Jambol, Bulgeria",Military - German Army,20,20
+"September 24, 1916", 0100,"Billericay, England",Military - German Navy,22,22
+"October 01, 1916",2345,"Potters Bar, England",Military - German Navy,19,19
+"November 21, 1916",?,"Mainz, Germany",Military - German Army,28,27
+"November 28, 1916", 2345,"Off West Hartlepool, England",Military - German Navy,20,20
+"March 04, 1917",?,"Near Gent, Belgium",Military - German Army,20,20
+"March 30, 1917",?,Off Northern Germany,Military - German Navy,23,23
+"May 14, 1917",0515,"Near Texel Island, North Sea",Military - German Navy,21,21
+"June 14, 1917",0845,"Off Vlieland Island, North Sea",Military - German Navy,24,24
+"June 17, 1917",?,"Near Yarmouth, England",?,16,14
+"August 21, 1917",0700,Off western Denmark,Military - German Navy,18,18
+"October 20, 1917",0745,"Near Luneville, France",Military - German Navy,18,18
+"April 07, 1918",2130,Over the Mediterranean,Military - German Navy,23,23
+"August 05, 1918",?,"Off Helgoland Island, Germany",Military - German Navy,22,22
+"August 11, 1918",1000,"Ameland Island, North Sea",Military - German Navy,19,19
+"December 16, 1918",?,"Elizabeth, New Jersey",US Aerial Mail Service,1,1
+"May 25, 1919",?,"Cleveland, Ohio",US Aerial Mail Service,1,1
+"July 19, 1919",?,"Dix Run, Pennsylvania",US Aerial Mail Service,1,1
+"July 21, 1919",1655,"Chicago, Illinois",Wingfoot Air Express Goodyear Tire,?,3
+"August 02, 1919",?,"Verona, Italy",Caproni Company,14,14
+"October 02, 1919",?,"Newcastle, England",Aircraft Transport and Travel,1,1
+"October 14, 1919",?,"Cantonsville, Maryland",US Aerial Mail Service,1,1
+"October 20, 1919",?,"English Channel off Forkstone, Kent",Aircraft Transport and Travel,0,0
+"October 30, 1919",?,"Long Valley, New Jersey",US Aerial Mail Service,1,1
+"December 11, 1919",?,"Catherham, Surrey, UK",Aircraft Travel Transport,1,1
+"March 10, 1920",?,"New Paris, Indiana",US Aerial Mail Service,1,1
+"March 30, 1920",?,"Newark, New Jersey",US Aerial Mail Service,1,1
+"April 10, 1920",?,"Newark, New Jersey",US Aerial Mail Service,2,1
+"April 11, 1920",?,"Heller Field, New Jersey",US Aerial Mail Service,2,1
+"May 12, 1920",?,"Oskaloosa, Iowa",US Aerial Mail Service,2,1
+"June 06, 1920",?,"Cleveland, Ohio",US Aerial Mail Service,1,1
+"July 20, 1920",?,"Cartagena, Columbia",Compañia Colombiana de Navegación Aérea,1,1
+"August 16, 1920",?,"Bedford, England",By Air,1,1
+"August 16, 1920",?,"College Park, Maryland",US Aerial Mail Service,1,1
+"September 01, 1920",?,"Morristown, New Jersey",US Aerial Mail Service,2,2
+"September 15, 1920",?,"Pemberville, Ohio",US Aerial Mail Service,2,2
+"September 27, 1920",?,"Hillersburg, Pennsylvania",US Aerial Mail Service,1,1
+"October 02, 1920",?,"Off Port Vendres, France",Latecoere Airlines,2,2
+"October 05, 1920",?,"Valencia, Spain",Latecoere Airlines,2,2
+"October 15, 1920",?,"Batavia, Illinois",US Aerial Mail Service,1,1
+"November 07, 1920",?,"Tie Siding, Wyoming",US Aerial Mail Service,1,1
+"December 14, 1920",1215,"London, England",Handley Page Transport,8,4
+"December 24, 1920",?,"Barcelona, Spain",Aeropostale,1,1
+"February 03, 1921",?,"Mendotta, Minnisota",US Aerial Mail Service,1,1
+"February 09, 1921",?,"La Crosse, Wisconsin",US Aerial Mail Service,3,3
+"February 15, 1921",?,Off Gibraltar,Aeropostale,2,2
+"February 22, 1921",?,"Elko, Nevada",US Aerial Mail Service,1,1
+"April 06, 1921",?,"Point Cook, Australia",Military - Royal Australian Air Force,2,2
+"April 21, 1921",?,"Mitchel Field, NY",US Aerial Mail Service,1,1
+"April 29, 1921",?,"Cleveland, Ohio",US Aerial Mail Service,1,1
+"May 17, 1921",?,"Rock Springs, Wyoming",US Aerial Mail Service,1,1
+"August 14, 1921",?,"Toulouse, France",Aeropostale,2,2
+"August 24, 1921",1740,"River Humber, England",Military - Royal Airship Works,49,43
+"September 06, 1921",?,"Paris, France",Franco-Roumaine,5,5
+"December 05, 1921",?,"Near Murchinson River, Australia",West Australian Airways,2,2
+"January 14, 1922",?,"Paris, France",Handley Page Transport,5,5
+"February 21, 1922",?,"Near Norfolk, Virginia",Military - U.S. Army Air Service,45,34
+"March 22, 1922",1140,North Atlantic Ocean,Aero Limited,6,5
+"April 07, 1922",1315,"Grandvilliers, France",Daimler Airways / Grands Express Aeriens,7,7
+"April 08, 1922",?,"Pao Ting Fou, China",?,17,17
+"June 03, 1922",?,"Off Folkestone, Kent, England",Cie des Messageries Aeriennes,3,3
+"July 04, 1922",?,"Fuhlsbuttel, Germany",?,3,2
+"July 16, 1922",1645,"Near Saverne, Lorraine, France",Compagnie Franco-Roumaine de Navigaation Aerienne,5,5
+"July 26, 1922",?,"Cadix, Spain",Grands Express Aeriens,3,3
+"September 07, 1922",?,"Indianapolis, Indiana",US Aerial Mail Service,1,1
+"October 02, 1922",?,"Venice, Italy",de Havilland Air Service,4,4
+"October 25, 1922",?,"Larache, Morocco",Grands Express Aeriens,2,2
+"December 03, 1922",?,"Fez, Morocco",Grands Express Aeriens,1,1
+"January 10, 1923",?,"Ajaccio, France",Amee de l'Air,4,3
+"January 17, 1923",?,"Barcelona, Spain",Grands Express Aeriens,1,1
+"January 18, 1923",?,"Cheyenne, Wyoming",US Aerial Mail Service,1,1
+"February 26, 1923",?,"Meadville, Pennsylvania",US Aerial Mail Service,1,1
+"May 14, 1923",1342,"Near Amiens, Picrdie, France",Grands Express Aeriens (Air Union),6,6
+"August 27, 1923",1730,"East Mallling, United Kingdom",Air Union,11,1
+"August 27, 1923",?,"Bucharest, Romania",Campagnie France Roumaine,2,2
+"September 07, 1923",?,"Colton, Ohio",US Aerial Mail Service,1,1
+"September 14, 1923",c 18:00,"Near Ivinghoe, Buckinghamshire, England",Daimler Airways,5,5
+"November 18, 1923",?,Russia,CCCP,5,3
+"December 06, 1923",?,"Castalia, Ohio",US Aerial Mail Service,1,1
+"December 23, 1923",c 02:30,Over the Mediterranean Sea,Military - French Navy,52,52
+"December 24, 1923",?,"Egbert, WY",US Aerial Mail Service,1,1
+"March 07, 1924",?,"Grampian, Pennsylvania",US Aerial Mail Service,1,1
+"April 24, 1924",?,Over the English Channel,KLM Royal Dutch Airlines,3,3
+"June 08, 1924",?,"Barranquilla, Colombia",SCADTA,5,5
+"August 01, 1924",?,United States,US Aerial Mail Service,1,1
+"November 06, 1924",?,"Cabrerolles, France",Grands Express Aeriens,1,1
+"December 21, 1924",?,"Goshen, Indiana",US Aerial Mail Service,1,1
+"December 24, 1924",c 12:00,"Purley, England",Imperial Airways,8,8
+"March 22, 1925",?,"Near Tiflis, Georgia, USSR",Zakavia,5,5
+"April 25, 1925",?,"Alicante, Spain",Grands Express Aeriens,3,3
+"June 25, 1925",?,"Landrécies, France",KLM Royal Dutch Airlines,4,4
+"June 26, 1925",?,"Alicante, Spain",Grands Express Aeriens,2,2
+"July 20, 1925",?,"Rosas, Spain",Lignes Aeriennes Latecoere,1,1
+"July 24, 1925",?,"Budapest, Hungary",CIDNA,1,1
+"September 03, 1925",0530,"Caldwell, Ohio",Military - U.S. Navy,43,14
+"September 07, 1925",?,"Toul, France",CIDNA,?,?
+"October 01, 1925",?,"Mt. Nittany, Ohio",US Aerial Mail Service,1,1
+"November 14, 1925",?,"Nouadhibou, Mauritania",Lignes Aeriennes Latecoere,1,1
+"November 14, 1925",?,"Off Boulogne-sur-Mer, France",Air Union,2,2
+"February 12, 1926",?,"Montpelier, Ohio",US Aerial Mail Service,1,1
+"March 08, 1926",?,"Staaken, Germany",Deutche Lufthansa,1,1
+"May 31, 1926",?,English Channel,Air Union,1,1
+"July 03, 1926",?,"Rossaugpt, Czechoslovakia",Compagnie Internationale de Navigation Aérienne,6,6
+"July 09, 1926",0930,"Wolvertem, Belgium",KLM Royal Dutch Airlines,2,2
+"July 24, 1926",?,"Juist, Germany",Deutsche Lufthansa,5,5
+"August 18, 1926",?,"Hurst, Kent, England",Air Union,15,3
+"September 26, 1926",?,"New York, New York",?,5,2
+"October 02, 1926",1527,"Leigh, Kent, Unied Kingdom",Air Union,7,7
+"October 08, 1926",?,"Bueren, Germany",Deutsche Lufthansa,4,4
+"October 21, 1926",c 13:15,English Channel,Imperial Airways,12,0
+"November 11, 1926",0800,"Cape Bojador, Morocco",Grands Express Aeriens,3,3
+"December 16, 1926",?,"Medford, Oregon",Pacific Air Transport,1,1
+"January 12, 1927",?,"Estaires, France",Fokker,0,0
+"March 20, 1927",?,"Rabat, Morocco",Grands Express Aeriens,1,1
+"March 24, 1927",?,"Tambo, Qld, Australia",Qantas,3,3
+"April 15, 1927",?,"King Hill, Idaho",Varney Air Lines,1,1
+"April 22, 1927",?,"Floh, Germany",Deutsche Lufthansa,2,2
+"April 22, 1927",?,"Goshen, Indiana",US Aerial Mail Service,1,1
+"May 02, 1927",?,"Algiers, Algeria",Air Union,3,1
+"July 27, 1927",?,"Amoneburg, Germany",Deutsche Lufthansa,5,5
+"August 22, 1927", 0830,"Sevenoaks, England",KLM Royal Dutch Airlines,11,1
+"September 03, 1927",?,"Willington, Connecticut",Colonial Air Transport,1,1
+"September 17, 1927",?,"Hadley, New Jersey",Reynolds Airways,12,7
+"September 17, 1927",0405,Atlantic Ocean,Private,3,3
+"September 23, 1927",10:00,"Schleiz, Germany",Deutsche Lufthansa,6,6
+"October 06, 1927",?,"Thies, Mauritania",Lignes Aeriennes Latecoere,2,2
+"October 30, 1927",?,"New Brunswick, New Jersey",Colonial Air Transport,4,4
+"November 08, 1927",?,"Strasburg, France",CIDNA,1,1
+"November 16, 1927",?,Over the Gulf of Finland,Aero O-Y,6,6
+"November 29, 1927",?,"Corunna, Indiana",National Air Transport,1,1
+"December 28, 1927",?,"Almeria, Spain",Aeropostale,1,1
+"December 31, 1927",?,"Near Marseille,France",Latecoere Airlines,5,5
+"January 08, 1928",?,"Near Canajoharie, New York",Colonial Western Airlines,3,3
+"January 16, 1928",?,"Solis, Uruguay",Aeropostale,2,2
+"January 22, 1928",?,"L'Hospitalet, Ariège",Aeropostale,1,1
+"January 22, 1928",?,"Tarragona, Spain",Aeropostale,2,2
+"January 27, 1928",?,"Almeria, Spain",Aeropostale,1,1
+"February 26, 1928",?,"Marquette, Nebraska",Boeing Air Transport,2,1
+"March 11, 1928",?,"Off Cape Griz Nez, France",Air Union,2,2
+"April 17, 1928",?,"Federal, Wyoming",Boeing Air Transport,2,1
+"April 19, 1928",?,"Minuesa, Spain",Iberia Airlines,9,9
+"May 07, 1928",?,"Florianopolis, Brazil
+Florianopolis, Brazil
+Florianopolis, Brazil",Aeropostale,5,1
+"May 12, 1928",?,"Dearborn, Minnesota",Ford Air Freight Inc.,2,2
+"May 26, 1928",?,"Radevormwald, Germany",Deutsche Lufthansa,5,3
+"June 14, 1928",?,"Frankfurt, Germany",Deutsche Lufthansa,5,5
+"June 22, 1928",?,"Lebo, Kansas",National Air Transport,1,1
+"July 10, 1928",?,Over the Gulf of Finland,Aero O-Y,6,6
+"July 13, 1928",?,"Purley, England",Imperial Airways,6,4
+"July 24, 1928",14:48,"Waalhaven, Netherlands",KLM Royal Dutch Airlines,6,1
+"August 25, 1928",c 11:00,"Near Port Townsend, BC, Canada",British Columbia Airways,7,7
+"September 02, 1928",c 9:15,"Toul, France",CIDNA,5,5
+"September 04, 1928",?,"Adelaide Hills, Australia",Qantas,2,1
+"September 04, 1928",11:30,"Pocatello, Idaho",National Parks Airways,7,7
+"September 06, 1928",?,"Heroldbach, Germany",Deutsche Lufthansa,3,3
+"October 04, 1928",?,"Gerona, Spain",Aeropostale,3,3
+"October 18, 1928",?,"Polk, Pennsylvania",National Air Transport,1,1
+"October 31, 1928",?,"Valence, France",Air Union,2,1
+"November 15, 1928",?,Off Gibraltar,Aeropostale,3,1
+"November 24, 1928",?,"Edgerton, Ohio",Universal Airlines,3,3
+"November 25, 1928",?,"Edgerton, Ohio",Continental Air Lines,1,1
+"November 25, 1928",?,"Bristolville, Ohio",National Air Transport,1,1
+"December 01, 1928",c 10:00,"Spur, Texas",Sunbeam Air Transport Co.,5,5
+"December 03, 1928",08:00,"Near Rio de Janeiro,Brazil",Syndicato Condor,14,14
+"December 10, 1928",10:45,"Spokan, Washington",Spokane Airways,5,5
+"December 11, 1928",?,"Letzlingen, Germany",Deutsche Lufthansa,4,3
+"December 20, 1928",?,"Huron, Ohio",National Air Transport,1,1
+"December 23, 1928",?,"Chattanooga, Tennessee",Interstate Airlines,4,4
+"December 31, 1928",?,"Reims, France",CIDNA,3,2
+"January 05, 1929",?,"Stafford Springs, Connecticut",Colonial Air Transport,1,1
+"January 18, 1929",?,"Cove, Oregon",Varney Air Lines,1,1
+"January 25, 1929",?,"Near Corfu, Greece",Aeroespresso,9,2
+"January 31, 1929",?,Off Morocco,Aeropostale,2,2
+"January 31, 1929",?,"Morgantown, West Virginia",Skyline Transportation Company,1,1
+"March 17, 1929",1700,"Newark, New Jersey",Colonial Western Airlines,15,14
+"March 30, 1929",09:18,"Near Beaumont, California",New Standard Airlines,4,4
+"April 21, 1929",1145,"San Diego, California",Maddux Airlines / Military - U.S.Army Air Force,6,6
+"May 09, 1929",?,"Tampico, Mexico",Mexicana,5,5
+"May 18, 1929",?,"Tököl,  Pest Hungary",MALERT,2,2
+"May 22, 1929",?,Algiers,Aeropostale,6,4
+"June 13, 1929",0800,"Santiago de Cuba, Cuba",Pan American Airways,5,2
+"June 14, 1929",?,"Barcelona, Spain",Aeropostale,2,1
+"June 17, 1929",1130,"Off Dungeness, England",Imperial Airways,13,7
+"June 24, 1929",?,"St. Paul, Minnesota",Northwest Orient Airlines,8,1
+"June 29, 1929",2100,"Near Lindau, Bavaria, Germany",Bodensee Aerolloyd,5,5
+"June 29, 1929",?,"Columbus, Ohio",Continental Air Lines,1,1
+"August 11, 1929",?,"Clovis, New Mexico",Middle States Airlines,4,4
+"August 24, 1929",?,"Sochi, Russia",Ukvozduchput,1,1
+"August 24, 1929",?,"Elm, Germany",Deutsche Lufthansa,5,4
+"September 02, 1929",?,"Needles, California",Associated Aviators,2,1
+"September 03, 1929",1101,"Mt. Taylor, near Grants, New Mexico",Trans Continental Air Transport,8,8
+"September 06, 1929",?,"Jask, Iran",Imperial Airways,5,3
+"September 14, 1929",?,North Atlantic Ocean,Aeropostale,6,6
+"September 14, 1929",1800,"Saint Catharines, Ontario",Skyways,6,6
+"September 17, 1929",?,"Mt Lamentation, Connecticut",Colonial Air Transport,1,1
+"September 17, 1929",?,"Off Larache, Morocco",Aeropostale,5,5
+"September 17, 1929",?,"Jacumba, California",Pickwick Airways,2,1
+"October 26, 1929",1800,"Off Spezia, Italy",Imperial Airways,7,7
+"October 29, 1929",?,"Mount Vernon, Ohio",Continental Air Lines,1,1
+"October 31, 1929",?,"Off Bremerton, Washington",Bremerton-Seattle Air Taxi / Gorst Air Lines,2,2
+"November 04, 1929",0700,"Cerro del Carbon, Mexico",Corp. Aeronautica de Transportes,4,4
+"November 06, 1929",1010,"Near Godstone, Surrey, England",Deutsche Lufthansa,8,7
+"November 16, 1929",0935,"Off Corsica, France",Air Union,3,3
+"November 20, 1929",?,"Terranova Pausania, East Sardinia",S.A.M. Società Aerea Mediterranea,12,1
+"November 30, 1929",?,"Vancouver, Washington",Varney Air Lines,1,1
+"December 02, 1929",?,"Chagrin Falls, Ohio",National Air Transport,1,1
+"December 19, 1929",?,"Near Berlin, Germany",Deutsche Lufthansa,3,2
+"December 30, 1929",c 17:00,"Amarillo, Texas",Trans Continental Air Transport,5,5
+"January 02, 1930",?,"Off Venice, California",?,10,10
+"January 10, 1930",?,"Brawnson, Nebraska",Boeing Air Transport,1,1
+"January 13, 1930",?,"Antananarivo, Madagascar",Air Orient,3,3
+"January 19, 1930",1823,"Oceanside, California",Maddux Airlines,16,16
+"January 25, 1930",?,"Off Ceuta, Spain",Aeropostale,2,2
+"January 27, 1930",1730,"Kansas City, Missouri",Central  Airlines (Universal Aviation Corporation),5,5
+"February 03, 1930",?,"Hartford, Connecticut",Colonial Air Transport,1,1
+"February 10, 1930",?,"Marden, England",Air Union,6,2
+"April 18, 1930",1700,"Jersey City, New Jersey",Canadian Colonial Airways,4,4
+"May 10, 1930",?,"Buenos Aires, Argentina",Aeropostale,4,3
+"June 05, 1930",?,"Boston, Massachusetts",Colonial Air Transport,15,1
+"July 07, 1930",?,"Bornholm, Denmark",Deutsche Lufthansa,8,5
+"July 10, 1930",?,"Arkansas Pass, Texas",Cross Airways,5,5
+"July 21, 1930",1500,"Near Meopham, Kent, England",Walcot Air Line,6,6
+"August 22, 1930",1545,"Iglau, Czechoslovakia",Ceskoslovenske Aerolinie,11,10
+"September 11, 1930",?,"Croydon, England",Sabena,2,2
+"September 25, 1930",?,"Edmonton, Alberta, Canada",Western Canada Airways,3,3
+"October 05, 1930",0205,"Near Beauvais, France",Military - British Air Ministry,54,48
+"October 06, 1930",0945,"Dresden, Germany",Deutsche Lufthansa,8,8
+"October 12, 1930",?,"La Rache, Morocco",Aeropostale,4,4
+"October 13, 1930",?,"Perth, Australia",Wings Ltd,3,3
+"October 28, 1930",?,"Prince Rupert, BC, Canada",Alaska-Washington Airways,3,3
+"October 30, 1930",?,"Brookston, Indiana",Embry Riddle Company,1,1
+"October 30, 1930",?,"Near Neufchatel, France",Imperial Airways,6,3
+"November 07, 1930",?,"Off of Santos, Brazil",Syndicato Condor,9,1
+"November 18, 1930",0200,"Techachapi Mountains, California",Pacific Air Transport,3,3
+"December 09, 1930",?,"Shanghai, China",China National Aviation Corporation,6,4
+"January 08, 1931",2240,"Melle, Belgium",Sabena,2,2
+"January 22, 1931",?," Bluff Mountain, Washington",Varney Air Lines,1,1
+"February 08, 1931",?,"Wairoa, New Zealand",Dominion Air Lines,3,3
+"February 20, 1931",?,"Bagot, Manitoba, Canada",Western Canada Airways,3,2
+"February 24, 1931",?,Off Spain,Aeropostale,3,1
+"March 21, 1931",1300,"New South Wales, Australia",Australian National Airways,8,8
+"March 31, 1931",1045,"Bazaar, Kansas",Trans Continental and Western Air,8,8
+"April 14, 1931",?,"Near Letschen, Germany",Deutsche Lufthansa,10,2
+"May 05, 1931",2330,"Burbank, California",Pacific Air Transport,2,2
+"May 22, 1931",?,"Wampit, Australia",Guiena Airways,1,1
+"May 24, 1931",2230,"Bellefonte, Pennsylvania",National Air Transport,1,1
+"June 07, 1931",0900,"Near Sandoway, Burma",Air Orient,4,4
+"June 11, 1931",?,"Walbridge, Ohio",Rubner Flying Service,3,2
+"June 13, 1931",?,"Saarbrucken, Germany",Deutsche Lufthansa,4,4
+"July 12, 1931",?,"Chicago, Illinois",Braniff Airlines,2,2
+"July 14, 1931",?,"Temora, Australia",Australian Aerial Services,2,2
+"July 21, 1931",?,"Centralia, Illinois",American Airways,1,1
+"July 24, 1931",?,"Kurudjevo, Bulgaria",CIDNA,7,7
+"August 09, 1931",0840,"Cincinnati, Ohio",American Airways,6,6
+"September 14, 1931",2000,"Chicago, Illinois",Chicago-Detroit Airways,1,1
+"September 15, 1931",?,"Near Craiova, Oltenia, Romania",CIDNA,6,6
+"September 16, 1931",0400,"Oakland, California",Pacific Air Transport,4,4
+"October 06, 1931",?,"Novia Scotia, Canada",Deutsche Lufthansa,3,3
+"October 14, 1931",?,Brazil,Syndicato Condor,3,3
+"November 05, 1931",0648,"Camden, New Jersey","NY, Phil., Washington AW",5,5
+"November 13, 1931",?,"Sir Lowry's pass, South Africa",Union Airways,3,3
+"November 23, 1931",?,"Salt Lake City, Utah",Boeing Air Transport,1,1
+"November 24, 1931",?,"Near Tsinan, China",China National Aviation Corporation,3,3
+"November 26, 1931",2230,"Pasco, Washington",Varney Air Lines,1,1
+"December 05, 1931",?,"Kewanee, Illinois",Braniff Airways,6,2
+"December 06, 1931",0545,"Bangkok, Thailand",KLM Royal Dutch Airlines,7,5
+"December 09, 1931",?,Off Algiers,Aeropostale,2,2
+"December 31, 1931",?,"Springfield, Ohio",American Airways,5,4
+"January 21, 1932",?,"Colvin Park, Ilinois",Northwest Airways,1,1
+"January 29, 1932",c 16:00,"Lebec, California",Century Pacific Lines,8,8
+"February 01, 1932",?,"Off Miami, Florida",Bimini Airways,5,5
+"February 02, 1932",?,"Rio Vista, California",Boeing Air Transport,2,1
+"February 02, 1932",?,"Marcellus, Michigan",Transamerican Airlines,1,1
+"February 27, 1932",?,"Off Setiba, Brazil",Aeropostale,3,3
+"March 08, 1932",02:00,"Saint Louis, Illinois",Century Air Lines,5,3
+"March 19, 1932",1930,"Calimesa, California",American Airways,7,7
+"March 21, 1932",?,"Steubenville, Ohio",Trans Continental and Western Air,1,1
+"March 29, 1932",?,"Rutbah Wells, Iraq",Air Orient,3,3
+"March 31, 1932",?,"Bedford, Ohio",National Air Transport,1,1
+"April 21, 1932",?,"Fort Wayne, Indiana",Transamerica Airlines,1,1
+"May 16, 1932",?,"Burbank, California",Pacific Air Transport,3,3
+"May 30, 1932",1200,"Portland, Oregon",Varney Air Lines,2,1
+"July 16, 1932",c 08:00,"Mount El Plomo, near Vitacura, Chile",Panagra,9,9
+"August 12, 1932",?,"Beyrouth, Lebanon",Air Orient,7,0
+"August 31, 1932",0010,"Tubergen, Germany",A B Aerotransport,2,2
+"September 08, 1932",c:09:00,"Salt Flats, Texas",American Airways,4,3
+"September 17, 1932",0600,"Selsdon Park, England",Air Union,2,1
+"September 18, 1932",?,"Byron Bay, Australia",New England Airways,3,3
+"October 12, 1932",?,"Port Etienne, Mauritania",Aeropostale,1,1
+"October 26, 1932",?,"Villa Monte, Bolivia",Lloyd Aero Boliviano,2,2
+"October 29, 1932",?,"Ramsgate, England",Deutsche Lufthansa,2,2
+"November 02, 1932",?,"Echterpfuhl, Germany",Deutsche Lufthansa,5,5
+"November 25, 1932",?,"Marianna, Arkansas",Hunter Airways,2,2
+"December 14, 1932",?,"Amarillo, Texas",Trans Continental and Western Air,2,2
+"December 14, 1932",?,"Rocky Ridge, Colorado",Boeing Air Transport,1,1
+"December 26, 1932",?,"Wau, Australia",Guinea Airways,1,1
+"January 10, 1933",?,Algiers,Aeropostale,3,1
+"January 14, 1933",?,"Newark, New Jersey",Eastern Air Transport,2,2
+"January 20, 1933",?,"Marietta, Georgia",American Airways,1,1
+"January 20, 1933",02:07,"Bourne, Texas",American Airways,1,1
+"January 24, 1933",?,"Eugene, Oregon",Pacific Air Transport,3,2
+"March 11, 1933",?,"Near Mendoza, Argentina",Pan American Grace Airways,2,2
+"March 25, 1933",2007,"Hayward, California",Varney Airlines,3,3
+"March 28, 1933",14:30,"Near Dixmude, Belgium",Imperial Airways,15,15
+"April 03, 1933",?,"Hemkenrode, Germany",Deutsche Lufthansa,2,1
+"April 04, 1933",1230,"Off Barnegat, New Jersey",Military - U.S. Navy,76,73
+"April 23, 1933",0740,"Near Castrovillari, Calabria, Italy",Air Orient,8,5
+"April 29, 1933",?,"Traunstein, Germany",Eurasia,4,4
+"May 09, 1933",1500,"Near Viladrau, Spain",Aeropostale - La Tecoere Company,6,6
+"June 04, 1933",0315,"Bowling Green, Virginia",Eastern Air Transport,1,1
+"June 11, 1933",1700,"Glenview, Illinois",Palwaukee,9,9
+"July 18, 1933",1540,Aegean Sea,Societa Anonima Aero Expresso Italiana,6,6
+"August 29, 1933",0100,"Quay, New Mexico",Trans Continental and Western Air,5,5
+"September 12, 1933",?,"Near Ljubljana, Yugoslavia",Aeroput,8,8
+"October 10, 1933",2100,"Chesterton, Indiana",United Air Lines,10,10
+"October 31, 1933",1120,"Etobon, France",Air France,5,2
+"November 09, 1933",2235,"Portland, Oregon",United Air Lines,10,4
+"November 10, 1933",?,"Moriarty, New Mexico",Trans Continental and Western Air,1,0
+"November 20, 1933",?,"Near Tsinan, China",China National Aviation Corporation,8,8
+"November 21, 1933",15:00,"Near Kharkov, Ukraine, USSR",Kalinin,20,14
+"November 24, 1933",?,"Wedron, Illinois",National Air Transport,2,2
+"December 11, 1933",1600,"Hamburg, Germany",Deutsche Lufthansa,10,6
+"December 14, 1933",?,"Eshowe, South Africa",Union Airways,6,5
+"December 30, 1933",c 13:00,"Near Ruysselede, Belgium",Imperial Airways,10,10
+"January 15, 1934",1815,"Corbigny, France",Air France,14,14
+"January 20, 1934",?,"Carombe, France",Air France,2,2
+"February 23, 1934",1415,"Near Salt Lake City, Utah",Boeing Aircraft Company,8,8
+"February 26, 1934",?,"Rio de Oro, Morocco",Air France,6,1
+"March 06, 1934",?,"Petersburg, Illinois",American Airways,4,4
+"March 10, 1934",?,"Pereira, Colombia",Pan American Airways (Scadta),6,5
+"March 22, 1934",?,"Near Lima, Peru",Pan American Grace Airlines,15,3
+"April 10, 1934",?,"Ningpo Bay, China",China National Aviation Corporation,3,3
+"May 09, 1934",?,English Channel,Air France,6,6
+"May 31, 1934",0500,"Croydon, England",Air France,2,2
+"June 09, 1934",1700,"Mongaup Mountain, New York",American Airways,7,7
+"June 11, 1934",1100,"Junin, Argentina",Panagra,10,6
+"June 22, 1934",?,"Chausseehausen, Germany",Deutsche Lufthansa,7,1
+"June 23, 1934",0600,"Burbank, California",Aerevias Centrales Air Service,1,1
+"July 09, 1934",?,"San Bernardino, California",United Air Services,4,3
+"July 27, 1934",0950,"Near Tuttlingen, Germany",Swissair,12,12
+"August 05, 1934",?,"Bahia, Brazil",Air France,2,2
+"August 10, 1934",?,"Ningbo, China",China National Aviation Corporation,?,?
+"August 31, 1934",2245,"Amazonia, Missouri",Rapid Air Transport,5,5
+"October 02, 1934",1050,English Channel,Hillman's Airways,7,7
+"October 03, 1934",?,"Near Winton, Australia",Qantas,3,3
+"October 19, 1934",?,"Bass Strait, Australia",Holymans Airways,11,11
+"November 02, 1934",?,"Kiapit, Australia",Holdens Air Transport Service,4,2
+"November 15, 1934",2342,"Amazonia, Montana",Rapid Air Transport,2,2
+"November 15, 1934",?,"Near Longreach, Australia",Qantas,4,4
+"December 07, 1934",?,"Salchau, Germany",Deutsche Lufthansa,3,3
+"December 08, 1934",0530,"Columbia, Missouri",Braniff Airlines,1,1
+"December 10, 1934",0730,"Palma Soriano, Cuba",Cubana de Aviacion,8,4
+"December 20, 1934",0333,"Rutbah Wells, Syria",KLM Royal Dutch Airlines,7,7
+"December 22, 1934",0252,"Sunbright, Tennessee",American Airlines,1,1
+"December 31, 1934",?,?,Aeroflot,10,10
+"January 08, 1935",?,"Near Karachi, Pakistan",Indian Air Force,2,0
+"January 26, 1935",?,"Pittsburgh, Pennsylvania",Trans Continental and Western Air,1,1
+"January 31, 1935",1900,"Stettin, Germany",Deruluft,11,11
+"February 12, 1935",?,"Off Point Sur, Californiia",Military - US Navy,83,2
+"March 07, 1935",?,"Schievelbein, Germany",Deruluft,3,0
+"March 15, 1935",?,"El Arish, Egypt",Misrair,6,3
+"March 29, 1935",?,"Off Samland, Germany",Deutsche Lufthansa,5,5
+"April 01, 1935",0045,"Beauvais, France",Air France,3,1
+"April 06, 1935",1518,"Brilon, Germany",KLM Royal Dutch Airlines,7,7
+"May 01, 1935",1045,"Near Walsenberg, Colorado",Varney Air Lines,1,1
+"May 06, 1935",0330,"Atlanta, Missouri",Trans Continental and Western Air,14,5
+"May 18, 1935",0045,"Near Moscow, Russia",Gor'ky Eskadril'ya,50,50
+"May 18, 1935",1835,"Flint, Michigan",Knowles Flying Service of Detroit,12,3
+"May 27, 1935",1600,"Glendo, Wyoming",Wyoming Air Service,1,1
+"May 28, 1935",2225,"Maywood, Illinois",Chicago and Southern Airlines,2,2
+"May 29, 1935",?,"San Barbra, Honduras",?,9,6
+"June 24, 1935",1436,"Medellin, Colombia",Servicio Aereo Columbiano / SCADTA,20,17
+"July 14, 1935",0940,"Amsterdam, Netherlands",KLM Royal Dutch Airlines,20,6
+"July 19, 1935",1420,"Off Chandeleur Island, Mississippi",Wedell-Williams Air Service Corporation,2,2
+"July 20, 1935",1230,"Pian Giacomo, Switzerland",KLM Royal Dutch Airlines,13,13
+"July 23, 1935",?,"Cardiff, United Kingdom",Jersey Airways,8,1
+"July 28, 1935",?,"El Retiro, Colombia",Fuerza Aerea Colombiana,5,5
+"August 07, 1935",0800,"Cairo, Egypt",Ala Littoria,7,7
+"August 13, 1935",?,"Hangow, China",China National Aviation Corporation,?,?
+"August 14, 1935",2345,"Near Gilmer, Texas",Delta Air Lines,4,4
+"August 15, 1935",2018,"Walakpa, near Point Barrow, Alaska",Private,2,2
+"August 15, 1935",2008,"Near Glendo, Wyoming",Aero Mayflower Transit Co,3,3
+"September 01, 1935",2300,"Burbank, California",Western Air Express,3,3
+"September 13, 1935", 0900,"Near Tambo, Panama",Panama Airways,8,8
+"October 02, 1935",0955,"Off Finders Island, Victoria, Australia",Holyman Airways,5,5
+"October 07, 1935",0219,"Near Cheyenne, Wyoming",United Air Lines,12,12
+"October 09, 1935",?,Gulf of Finland,Aero O-Y,6,6
+"October 21, 1935",1100,"Troy, New York",Chamberlin Flying Service,6,1
+"October 30, 1935",1940,"Cheyenne, Wyoming",United Air Lines,4,4
+"November 02, 1935",?,"Off Nhambupe, Brazil",Air France,4,4
+"November 09, 1935",0440,"Near Fort Worth, Texas",Braniff Airlines,1,1
+"November 09, 1935",?,"Brindisi, Italy",Imperial Airways,13,12
+"November 11, 1935",?,"Istres, France",Air France,3,3
+"December 04, 1935",?,"Tours, France",Air Bleu,2,1
+"December 10, 1935",1645,"Croydon, England",Sabena,11,11
+"December 24, 1935",?,"Wroctaw, Poland",Deutsche Lufthansa,3,3
+"December 31, 1935",1915,"Off Alexandria, Egypt",Imperial Airways,13,12
+"January 14, 1936",?," Tres Esquinas, Colombia",Military - Fuerza Aerea Colombiana,16,13
+"January 14, 1936",1932,"Goodwin, Arkansas",American Airlines,17,17
+"January 17, 1936",?,"Near Cordillera, Boliva",Lloyd Aereo Boliviano,13,13
+"January 21, 1936",1000,"Off Ajaccio, Corsica, France",Air France,6,6
+"January 29, 1936",?,"Denton, Texas",American Airlines,6,1
+"February 10, 1936",?,Atlantic Ocean,Air France,6,6
+"February 15, 1936",0352,South Atlantic Ocean,Deutsche Lufthansa,4,4
+"March 05, 1936",?,"Near Tengya, China",China National Aviation Corporation,6,0
+"March 14, 1936",?,"Ovalle, Chile",Lan Chile,5,5
+"March 26, 1936",1100,"Amemeca, Mexico",Mexicana,14,14
+"April 01, 1936",1910,"Pavillon, New York",American Airlines,2,2
+"April 07, 1936",1020,"Uniontown, Pennsylvania",Trans Continental and Western Air,14,12
+"April 11, 1936",0520,"Port of Spain, Trinidad",Pan American Airways,25,3
+"April 15, 1936",?,"Near Turin, Italy",Avio Linee Italiane,7,7
+"April 17, 1936",?,"Orvin, Switzerland",Deutsche Lufthansa,5,3
+"April 21, 1936",?,"Senlis, France",Sabena,2,2
+"April 30, 1936",?,"Basel, Switzerland",Swissair,2,2
+"May 16, 1936",?,"Mount Waverley, Australia",Holymans Airways,2,2
+"June 09, 1936",?,"Malmo, Sweden",A B Aerotransport,15,1
+"June 13, 1936",?,"Hannover, Germany",Deutsche Lufthansa,6,1
+"June 16, 1936",0700,"Mt. Lihesten, Norway",Den Norske Luftfartskole,7,7
+"July 15, 1936",?,"Zagreb, Croatia",Aeroput,7,7
+"July 28, 1936",?,"Kulyab, Tajikistan",Aeroflot,6,6
+"July 31, 1936",1930,"Off Channel Islands, Jersey",Guernsey Airways,10,10
+"August 02, 1936",0600,"Mazamet, France",Air France,3,3
+"August 03, 1936",?,"Ciudad Serdan,Mexico",Mexicana,1,1
+"August 05, 1936",2200,"St. Louis, Missouri",Chicago Southern Airlines,8,8
+"August 06, 1936",?,"Choco, Colombia",SCADTA,3,2
+"August 12, 1936",0300,"Altenkirchen, Germany",British Airways,2,2
+"August 22, 1936",?,"Mirabella, Greece",Imperial Airways,11,2
+"September 05, 1936",2200,"Near Pittsburgh, Pennsylvania",Pittsburgh Skyways Inc.,11,10
+"September 24, 1936",?,"Benghazi, Libya",Ala Littoria SA,10,9
+"September 25, 1936",?,English Channel,Imperial Airways,2,2
+"September 28, 1936",?,"Walsenberg, Colorado",Varney Air Lines,3,3
+"September 29, 1936",?,"Napierville, Illinois",Blue Bird Air Service,4,4
