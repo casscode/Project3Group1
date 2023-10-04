@@ -2,22 +2,30 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>Plane Crashes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>PLANE-CRASHES</title>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    <script src="scripts/app.js"></script>
+    <script src="scripts/home.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Merienda+One|Merriweather|Open+Sans" rel="stylesheet">
+    <link href="styles/style3.css" rel="stylesheet" />
 </head>
 <body>
     <div id="Visualizations" >
         <div>Project 3 Group 1</div>
-        <div style="display:none; ">Years</div>
-        <div style="display:none; ">Places</div>
-        <div style="display:none; ">Time of day</div>
+        <!-- <div style="display:none; ">Years</div> -->
+        <!-- <div style="display:none; ">Places</div> -->
+        <!-- <div style="display:none; ">Time of day</div> -->
     </div>
-    <div id="topMenu">
-        <div class="wrap">
-            <div id="topLinks">
-                <ul>
-                    <li>
-                        <a href="file:///Users/cassie/Desktop/Project_3/Project3Group1/HTML/Click_Me!/index.html">Link1</a>
-                    </li>
+    <!-- <div id="topMenu"> -->
+        <!-- <div class="wrap"> -->
+            <!-- <div id="topLinks"> -->
+                <!-- <ul> -->
+                    <!-- <li> -->
+                        <!-- <a href="file:///Users/cassie/Desktop/Project_3/Project3Group1/HTML/Click_Me!/index.html">Link1</a> -->
+                    <!-- </li>
                     <li>
                         <a href="file:///Users/cassie/Desktop/Project_3/Project3Group1/HTML/Pie_Chart/index.html">Link2</a>
                     </li>
@@ -34,8 +42,37 @@
             </div>
             <a class="logo" href="/">Plane Crashes</a>
         </div>
+    </div> -->
+    <div class="spacer v40"></div>
+    <div class="Visuals">
+        <div class="heading">
+            VISUALIZATIONS
+        </div>
+        <div class="row">
+            <div class="col-md-4 visiualItem">
+                <a href="piechart.html" class="subHeading">
+                    <img src="Images/merged-files_Graph-2.jpg" class="image" /><br />Pie Chart
+                </a>
+            </div>
+            <div class="col-md-4 visiualItem">
+                <a href="linegraph.html" class="subHeading">
+                    <img src="Images/merged-files_Chart.jpg" class="image" /><br />Line Graph
+                </a>
+            </div>
+            <!-- <div class="col-md-4 visiualItem"> -->
+                <!-- <a href="map.html" class="subHeading"> -->
+                    <!-- <img src="Images/merged-files_Presentation.jpg" class="image" /><br />Map -->
+                <!-- </a> -->
+            <!-- </div> -->
+            <div class="col-md-4 visiualItem">
+                <a href="totalvspercent.html" class="subHeading">
+                    <img src="Images/merged-files_Growth-chart.jpg" class="image" /><br />Bar
+                </a>
+            </div>
+        </div>
     </div>
-    <div class="wrap">
+    <div class="spacer v60"></div>
+    <!-- <div class="wrap">
         <div id="banner">
             <h1 class="logo">Planes</h1>
             <div id="action">
@@ -49,8 +86,8 @@
                 <div class="subHeading">Hello</div>
                 <hr />
                 <p>Test to see what ends up here</p>
-                <div class="spacer v40"></div>
-                <a href="">Click Here</a>
+                <div class="spacer v40"></div> -->
+                <!-- <a href="">Click Here</a>
             </div>
             <div class="rightColumn">
                 <a class="featureImage" src="/Plane">
@@ -63,6 +100,33 @@
             <img src="images/map.jpg" />
         </div>
         <div class="spacer v80"></div>
-    </div>
+    </div> -->
 </body>
+
+<head>
+    <meta charset="utf-8">
+    <title>Basic Map</title>
+  
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin="" />
+  
+    <!-- Leaflet JavaScript code -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""></script>
+  
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="Styles/style2.css">
+  </head>
+  
+  <body>
+    <!-- The div where we'll insert our map -->
+    <div id="map"></div>
+  
+    <!-- JavaScript files -->
+    <script type="text/javascript" src="Scripts/data.js"></script>
+    <script type="text/javascript" src="Scripts/logic.js"></script>
+  </body>
 </html>
