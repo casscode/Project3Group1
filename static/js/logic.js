@@ -1,10 +1,10 @@
 // An array that will store the created cityMarkers
 let cityMarkers = [];
 
-for (let i = 0; i < cities.length; i++) {
+for (let i = 0; i < crashes.length; i++) {
   // loop through the cities array, create a new marker, and push it to the cityMarkers array
   cityMarkers.push(
-    L.marker(cities[i].location)//.bindPopup("<h1>" + cities[i].name + "</h1>")
+    L.marker(crashes[i].location)//.bindPopup("<h1>" + cities[i].name + "</h1>")
   );
 }
 

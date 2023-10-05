@@ -34,8 +34,19 @@ def main_get():
 
 @app.get("/map")
 def mapget():
-    crashes = []
     crashlocations = CrashLocation.query.all()
+    crashes = []
     for location in crashlocations:
         crashes.append({"location":[location.latitude, location.longitude]})
     return render_template("map.html", crashes=crashes)
+
+@app.get("/pie")
+def pieget():
+    car2001 = db.session.query(Car.fatalities, Car.year).all()
+    #  fatalities from carcrash:
+    # car2000 = 
+    # car2018 = []
+    # plane2000 = []
+    # plane2018 = []
+
+

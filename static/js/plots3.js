@@ -1,25 +1,29 @@
 // Create our first trace
-let trace1 = {
+var trace1 = {
   x: years,
   y: fatalities,
-  type: "scatter"
+  name: 'Total Fatalities',
+  type: "bar"
 };
 
 // Create our second trace
-let trace2 = {
+var trace2 = {
   x: years,
   y: rates,
+  name: 'Rate',
+  yaxis: 'y2',
   type: "scatter"
 };
 
 // The data array consists of both traces
-let data = [trace1, trace2];
+var data = [trace1, trace2];
 
 var layout = {
-  title: 'Double Y Axis Example',
-  yaxis: {title: 'yaxis title'},
+  title: 'Total Fatalities vs. Fatalitly Rate Per Year',
+  yaxis: {title: 'Total Fatalities'},
+  xaxis: {title: 'Year'},
   yaxis2: {
-    title: 'yaxis2 title',
+    title: 'Fatalitly Rate',
     titlefont: {color: 'rgb(148, 103, 189)'},
     tickfont: {color: 'rgb(148, 103, 189)'},
     overlaying: 'y',
