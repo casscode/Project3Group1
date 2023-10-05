@@ -38,3 +38,4 @@ def mapget():
     crashlocations = CrashLocation.query.all()
     for location in crashlocations:
         crashes.append({"location":[location.latitude, location.longitude]})
+    return render_template("map.html", crashes=crashes)

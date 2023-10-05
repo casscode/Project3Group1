@@ -16,7 +16,7 @@
     crossorigin=""></script>
 
   <!-- Our CSS -->
-  <link rel="stylesheet" type="text/css" href="../static/css/style2.css">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style2.css') }}">
 </head>
 
 <body>
@@ -26,8 +26,8 @@
   var crashes = {{ crashes|safe }}; 
   </script>
   <!-- JavaScript files -->
-  <script type="text/javascript" src="../static/js/data.js"></script>
-  <script type="text/javascript" src="../static/js/logic.js"></script>
+  <script type="text/javascript" src="{{ url_for('static', filename='js/data.js') }}"></script>
+  <script type="text/javascript" src="{{ url_for('static', filename='js/logic.js') }}"></script>
 </body>
 
 </html>
