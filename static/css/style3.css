@@ -1,0 +1,85 @@
+/*
+    font-family: 'Merriweather', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Merienda One', cursive;
+    Text color : #333;
+    Dark blue : #345995;
+    Light blue : #4392F1;
+    Red :  #D7263D;
+    Yellow : #EAC435;
+    Mauve : #BC8796;
+    Silver : #C0C0C0;
+    Light gray : #D3D3D3;
+*/
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: #333;
+    background-color: white;
+}
+.spacer.v80 {
+    height: 80px;
+}
+.spacer.v60 {
+    height: 60px;
+}
+.spacer.v40 {
+    height: 40px;
+}
+.spacer.v20 {
+    height: 20px;
+}
+h1, h2, h3 {
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    font-size: 60px;
+}
+h2 {
+    font-size: 30px;
+}
+h3 {
+    font-size: 20px;
+}
+.Visuals .row .visiualItem {
+    text-align: center;
+}
+@media screen and (max-width: 575px) {
+    .Visuals .row .visiualItem {
+        margin-bottom: 20px;
+    }
+}
+.Visuals .heading,
+.Visuals .subHeading {
+    font-family: 'Merriweather', serif;
+}
+.Visuals .heading {
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.Visuals .subHeading {
+    font-size: 18px;
+    color: #345995;
+}
+    .Visuals .subHeading:hover {
+        text-decoration: none;
+        color: #D7263D;
+    }
+.Visuals .image {
+    width: 25%;
+}
+#clickHere {
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 50px;
+  }
+#click-me {
+    margin-left: 535px;
+}

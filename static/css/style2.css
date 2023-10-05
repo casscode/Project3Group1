@@ -5,8 +5,18 @@ body {
 }
 
 /* Set map, body, and html to 100% of the screen size. */
-#map,
+#map {
+  height: 100%;
+  width: 95%;
+}
 body,
 html {
   height: 100%;
+}
+#mapTitle {
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  margin-bottom: 30px;
 }

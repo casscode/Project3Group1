@@ -9,6 +9,11 @@
 </head>
 <body>
   <div id="plot"></div>
-  <script src="Scripts/plots3.js"></script>
+  <script>
+    var years = {{ years }};
+    var fatalities = {{ fatalities }};
+    var rates = {{ rates }};
+  </script>
+  <script src="{{ url_for('static', filename='js/plots3.js') }}"></script>
 </body>
 </html>
