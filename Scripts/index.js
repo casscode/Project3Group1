@@ -16,10 +16,10 @@ button.on("click", function() {
   let inputValue = +inputField.node().value; // Get the current input value
   if (inputValue < 100) {
     // Image for values less than 100
-    d3.select(".wiki-me").html("<img src='https://i.imgur.com/gUQHs65.png alt='image 1'>");
+    d3.select(".wiki-me").html("<img src='https://i.imgur.com/MXmzpyB.png' alt='too low!'>");
   } else {
     // Image for values greater than or equal to 100
-    d3.select(".wiki-me").html("<img src='https://i.imgur.com/zIRi4iW.png' alt='image 2'>");
+    d3.select(".wiki-me").html("<img src='https://i.imgur.com/zIRi4iW.png' alt='too high!'>");
   }
 });
 
@@ -30,10 +30,10 @@ inputField.on("change", function(event) {
   if (buttonClicked) {
     if (inputValue < 100) {
       // Image for values less than 100
-      d3.select(".wiki-me").html("<img src='https://i.imgur.com/gUQHs65.png' alt='image 1'>");
+      d3.select(".wiki-me").html("<img src='https://i.imgur.com/MXmzpyB.png' alt='too low!'>");
     } else {
       // Image for values greater than or equal to 100
-      d3.select(".wiki-me").html("<img src='https://i.imgur.com/zIRi4iW.png' alt='image 2'>");
+      d3.select(".wiki-me").html("<img src='https://i.imgur.com/zIRi4iW.png' alt='too high!'>");
     }
   }
 });
