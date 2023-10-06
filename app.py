@@ -19,6 +19,13 @@ class Car(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     year = db.Column(db.Integer, nullable=False)
     fatalities = db.Column(db.Integer, nullable=False)
+@app.get("/")
+def page_get():
+    return render_template("Project3Group1.html")
+
+@app.get("/line")
+def line_get():
+    return render_template("line.html")
 
 @app.get("/main")
 def main_get():
@@ -40,13 +47,5 @@ def mapget():
         crashes.append({"location":[location.latitude, location.longitude]})
     return render_template("map.html", crashes=crashes)
 
-@app.get("/pie")
-def pieget():
-    car2001 = db.session.query(Car.fatalities, Car.year).all()
-    #  fatalities from carcrash:
-    # car2000 = 
-    # car2018 = []
-    # plane2000 = []
-    # plane2018 = []
 
 

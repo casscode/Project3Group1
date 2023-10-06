@@ -17,7 +17,8 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
     color: #333;
-    background-color: white;
+    background-color: rgba(61, 149, 238, 0.149);
+    
 }
 .spacer.v80 {
     height: 80px;
@@ -59,7 +60,8 @@ h3 {
     font-size: 30px;
     line-height: 35px;
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
+    margin-top: 60px;
 }
 .Visuals .subHeading {
     font-size: 18px;
@@ -80,6 +82,7 @@ h3 {
     margin-bottom: 30px;
     margin-top: 50px;
   }
-#click-me {
-    margin-left: 535px;
+#mapImage {
+    margin-left: 650px;
 }
+

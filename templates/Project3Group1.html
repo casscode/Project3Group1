@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <head>
+    <!-- <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -16,7 +16,7 @@
         </div>
         <div class="wiki-me"></div>
         <script src="{{ url_for('static', filename='js/index.js') }}" type="text/javascript"></script>
-      </body>
+      </body> -->
 
 <head>
     <meta charset="utf-8" />
@@ -28,7 +28,7 @@
     <script src="{{ url_for('static', filename='js/home.js') }}"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Merienda+One|Merriweather|Open+Sans" rel="stylesheet">
-    <link href="{{ url_for('static', filename='css/style3.css') }}" rel="stylesheet" />
+    <link href="{{ url_for('static', filename='/css/style3.css') }}" rel="stylesheet" />
 </head>
 <body>
     <!-- <div id="Visualizations" > -->
@@ -64,33 +64,29 @@
     <div class="spacer v40"></div>
     <div class="Visuals">
         <div class="heading">
-            VISUALIZATIONS
+            PLANE CRASH DATA
         </div>
         <div class="row">
             <div class="col-md-4 visiualItem">
-                <a href="piechart.html" class="subHeading">
-                    <img src="Images/merged-files_Graph-2.jpg" class="image" /><br />Pie Chart
+                <a href="http://127.0.0.1:5000/line" class="subHeading">
+                    <img src="{{ url_for('static', filename='images/merged-files_Chart.jpg') }}" class="image" /><br />Bar Graph #1 
                 </a>
             </div>
-            <div class="col-md-4 visiualItem">
-                <a href="linegraph.html" class="subHeading">
-                    <img src="Images/merged-files_Chart.jpg" class="image" /><br />Line Graph
-                </a>
-            </div>
+        
             <div class="col-md-4 visiualItem">
                 <a href="http://127.0.0.1:5000/map" class="subHeading">
-                    <img src="{{ url_for('static', filename='images/merged-files_Presentation.jpg') }}"" class="image" /><br />Map
+                    <img src="{{ url_for('static', filename='images/map.jpg') }}" class="image" /><br />Map
                 </a>
             </div>
             <div class="col-md-4 visiualItem">
                 <a href="http://127.0.0.1:5000/main" class="subHeading">
-                    <img src="{{ url_for('static', filename='images/merged-files_Growth-chart.jpg') }}" class="image" /><br />Bar
+                    <img src="{{ url_for('static', filename='images/merged-files_Growth-chart.jpg') }}" class="image" /><br />Bar Graph #2
                 </a>
             </div>
         </div>
     </div>
-    <div class="spacer v60"></div>
-    <!-- <div class="wrap">
+    <!-- <div class="spacer v60"></div>
+    <div class="wrap">
         <div id="banner">
             <h1 class="logo">Planes</h1>
             <div id="action">
@@ -115,11 +111,11 @@
         </div>
         <div class="clear spacer v20"></div>
         <div id="mapImage" class="middleImage">
-            <img src="images/map.jpg" />
+            <img src="{{ url_for('static', filename='images/carvsplane.jpg') }}" />
         </div>
         <div class="spacer v80"></div>
-    </div> -->
-</body>
+    </div>
+</body> -->
 
 <!-- <head>
     <meta charset="utf-8">
